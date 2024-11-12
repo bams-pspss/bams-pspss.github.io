@@ -38,7 +38,8 @@ window.addEventListener('DOMContentLoaded', function(){
 
     this.setTimeout(()=>{
         myName.classList.add('play');
-    }, 5000);
+    }, 2300);
 })
+
 
 
