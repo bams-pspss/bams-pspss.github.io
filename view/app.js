@@ -39,14 +39,6 @@ window.addEventListener('DOMContentLoaded', function(){
     this.setTimeout(()=>{
         myName.classList.add('play');
     }, 5000);
-
-    abtmeButt.addEventListener('click', function(){
-        abtMeSec.scrollIntoView({behavior: 'smooth'});
-    });
-
-    homeButt.addEventListener('click', function(){
-        homeSec.srollIntoView({behavior: 'smooth'});
-    })
 })
 
 
